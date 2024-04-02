@@ -16,7 +16,7 @@
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="20px" height="20px"></a>
 </p>
 
-<p align="center"><a href="https://mwid.dev/">mwid.dev</a></p>
+<p align="center"><a href="https://mwid.dev/">https://pawankumarkrishnan.azurewebsites.net/</a></p>
 
 ---
 
